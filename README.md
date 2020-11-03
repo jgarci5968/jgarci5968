@@ -1,7 +1,7 @@
 
 ### Hi, I'm Jesus 👋
 
-<p><img src="https://github.com/jgarci5968/jgarci5968/blob/main/images/gh-header-image-cropped-01.png?raw=true" alt="" width="1581" height="515" /></p>
+<p><img src="https://github.com/jgarci5968/jgarci5968/blob/main/images/gh-header-image-cropped-01.png?raw=true" alt="" width="1581" height="415" /></p>
 
 <p>I'm an Electronics Design Systems Engineer and Educator who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Arduino and Teensy Microcontrollers, Programming for Sensors, as well as designing pcb. I also enjoy using C++ with Python. I currently work with the Adler Planetarium where I design hardware for research purposes. My interest in science, space, research, and engineering has led me to launch my first-ever payload to space aboard the Antares rocket (NG-11), which made the Adler Planetarium become the first planetarium in space!&nbsp;</p>
 <!--
